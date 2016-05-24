@@ -1,0 +1,28 @@
+name: test2323
+favicon: null
+layout_spectrum: 0.7631761389784515
+typography_spectrum: 0.008851082995533943
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.777230360545218
+  lightness: 0.30931124626658857
+  saturation: 0.08959276019595563
+  rhythmicContrast: 0.2909518233500421
+purpose: []
